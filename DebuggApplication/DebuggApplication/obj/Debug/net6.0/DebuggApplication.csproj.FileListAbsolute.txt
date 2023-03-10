@@ -1,0 +1,15 @@
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\obj\Debug\net6.0\DebuggApplication.csproj.AssemblyReference.cache
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\obj\Debug\net6.0\DebuggApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\obj\Debug\net6.0\DebuggApplication.AssemblyInfoInputs.cache
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\obj\Debug\net6.0\DebuggApplication.AssemblyInfo.cs
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\obj\Debug\net6.0\DebuggApplication.csproj.CoreCompileInputs.cache
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\bin\Debug\net6.0\DebuggApplication.exe
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\bin\Debug\net6.0\DebuggApplication.deps.json
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\bin\Debug\net6.0\DebuggApplication.runtimeconfig.json
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\bin\Debug\net6.0\DebuggApplication.dll
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\bin\Debug\net6.0\DebuggApplication.pdb
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\obj\Debug\net6.0\DebuggApplication.dll
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\obj\Debug\net6.0\refint\DebuggApplication.dll
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\obj\Debug\net6.0\DebuggApplication.pdb
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\obj\Debug\net6.0\DebuggApplication.genruntimeconfig.cache
+C:\Users\jayesh\source\repos\DebuggApplication\DebuggApplication\obj\Debug\net6.0\ref\DebuggApplication.dll

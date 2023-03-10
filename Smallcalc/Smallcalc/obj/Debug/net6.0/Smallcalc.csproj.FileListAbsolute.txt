@@ -1,0 +1,15 @@
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\bin\Debug\net6.0\Smallcalc.exe
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\bin\Debug\net6.0\Smallcalc.deps.json
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\bin\Debug\net6.0\Smallcalc.runtimeconfig.json
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\bin\Debug\net6.0\Smallcalc.dll
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\bin\Debug\net6.0\Smallcalc.pdb
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\obj\Debug\net6.0\Smallcalc.csproj.AssemblyReference.cache
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\obj\Debug\net6.0\Smallcalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\obj\Debug\net6.0\Smallcalc.AssemblyInfoInputs.cache
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\obj\Debug\net6.0\Smallcalc.AssemblyInfo.cs
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\obj\Debug\net6.0\Smallcalc.csproj.CoreCompileInputs.cache
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\obj\Debug\net6.0\Smallcalc.dll
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\obj\Debug\net6.0\refint\Smallcalc.dll
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\obj\Debug\net6.0\Smallcalc.pdb
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\obj\Debug\net6.0\Smallcalc.genruntimeconfig.cache
+C:\Users\jayesh\source\repos\Smallcalc\Smallcalc\obj\Debug\net6.0\ref\Smallcalc.dll
