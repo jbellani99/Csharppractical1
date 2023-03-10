@@ -1,0 +1,28 @@
+From command line always get input string format.
+Characters cannot be converted into Integer data type.
+we get exception on line 14.
+We have handle their a exception for character input.
+
+
+Solution:-
+
+try{
+
+	if (Convert.ToBoolean(int.Parse(userResponse)))
+            {
+
+                Console.WriteLine("The entered value is a integer");
+
+            }
+
+
+}
+ catch(exception ex){
+
+
+	Console.WriteLine(ex.Message);
+
+}
+
+
+Above code when string passed in input then exception occurs and handle by catch block.
